@@ -1,9 +1,9 @@
-The Decorator pattern focuses on adding properties, functionalities,
-and behaviour to existing classes dynamically.
+# Decorator Pattern
 
-## Tags
+The Decorator Pattern focuses on adding properties, functionalities, and behavior to existing classes dynamically.
 
-    Smart Proxy
-    Wrapper
+## Class Diagram
 
-## Java I/O classes
+![Screenshot 2024-08-25 213241](https://github.com/user-attachments/assets/f3cad8c9-47ea-4d98-b548-d57d9f05245f)
+
+

@@ -39,6 +39,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 | State                    | [State Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Behavioral/State#class-diagram)             | [State Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Behavioral/State/StateCode)                    |
 | Strategy                 |  | [Strategy Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Behavioral/Strategy/StrategyCode)                 |
 
+
 ## Notes
 
 - This repository includes design patterns from the creational, structural, and behavioral categories.
@@ -47,6 +48,18 @@ Design patterns are typical solutions to commonly occurring problems in software
   - A **class diagram** for a visual representation.
   - **Code examples** demonstrating how to implement the pattern.
 - You may find code examples from different websites.
+
+
+## Low Level Design
+
+| Problem Name                | Link                                                                 |
+|-----------------------------|----------------------------------------------------------------------|
+| Splitwise                   | [Splitwise](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Splitwise)                     |
+| Key-Value Store             | [Key Value Store](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Key%20Value%20Store)   |
+| ATM System                  | [ATM System](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/ATM%20System)               |
+| Magical Arena               | [Magical Arena](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Magical%20Arena)         |
+| Vending Machine             | [Vending Machine](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Vending%20Machine)     |
+
 
 ## Learning Resources
 

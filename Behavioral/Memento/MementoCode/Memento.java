@@ -1,5 +1,3 @@
-package MementoCode;
-
 public class Memento {
     private final String state;
 

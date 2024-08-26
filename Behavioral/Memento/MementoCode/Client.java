@@ -1,17 +1,35 @@
-package MementoCode;
-
 public class Client {
     public static void main(String[] args) {
-        Originator originator = new Originator();
+        /*
+         * Editor editor = new Editor();
+         * 
+         * editor.type("Pawan Mehta");
+         * 
+         * Memento savedMemento = editor.save();
+         * 
+         * System.out.println("Editor state: " + editor.getContent());
+         * editor.type(" Kumar!");
+         * System.out.println("Editor state: " + editor.getContent());
+         * editor.restore(savedMemento);
+         * System.out.println("Editor state: " + editor.getContent());
+         */
+
+        Editor editor = new Editor();
         Caretaker caretaker = new Caretaker();
 
-        originator.setState("state1");
-        caretaker.saveMemento(originator.saveStateToMemento());
+        editor.type("Pawan");
+        editor.type(" Mehta");
 
-        originator.setState("state2");
+        caretaker.save(editor.save());
 
-        originator.getStateFromMemento(caretaker.getMemento());
+        System.out.println("Editor state: " + editor.getContent());
 
-        System.out.println("Current State: " + originator.getState());
+        editor.type(" Kumar!");
+
+        System.out.println("Editor state: " + editor.getContent());
+
+        editor.restore(caretaker.undo());
+
+        System.out.println("Editor state: " + editor.getContent());
     }
 }

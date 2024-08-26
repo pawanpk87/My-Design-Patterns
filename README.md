@@ -22,7 +22,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 | Bridge           |  | [Bridge Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Bridge/BridgeCode)             |
 | Flyweight        |  | [Flyweight Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Flyweight/FlyweightCode)          |
 | Composite        | [Composite Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Composite#class-diagram)   | [Composite Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Composite/CompositeCode)          |
-| Proxy            |  | [Proxy Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy/ProxyCode)              |
+| Proxy            | [Proxy Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy#class-diagram) | [Proxy Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy/ProxyCode)              |
 
 ## Behavioral Design Patterns
 

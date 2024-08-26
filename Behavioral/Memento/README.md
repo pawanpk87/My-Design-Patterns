@@ -8,4 +8,4 @@ Keeping the single responsibility principle in mind, it’s also a good idea to 
 
 ## Class Diagram
 
-TODO
+![Screenshot 2024-08-26 195048](https://github.com/user-attachments/assets/f14d5e0a-5270-40fa-a75b-9687b90d9c4a)

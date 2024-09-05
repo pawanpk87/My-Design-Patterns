@@ -54,7 +54,9 @@ Design patterns are typical solutions to commonly occurring problems in software
 
 | Problem Name                | Link                                                                 |
 |-----------------------------|----------------------------------------------------------------------|
-| Splitwise                   | [Splitwise](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Splitwise)                     |
+| Document Manager            | [Document Manager](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/DocumentManager)      |
+| Cab Booking Service         | [Cab Booking Service](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/CabBookingService) |
+| Splitwise                   | [Splitwise](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Splitwise)                   |
 | Key-Value Store             | [Key Value Store](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Key%20Value%20Store)   |
 | ATM System                  | [ATM System](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/ATM%20System)               |
 | Magical Arena               | [Magical Arena](https://github.com/pawanpk87/My-Low-Level-Design/tree/main/Magical%20Arena)         |

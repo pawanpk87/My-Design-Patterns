@@ -40,7 +40,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 | Strategy                 |  | [Strategy Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Behavioral/Strategy/StrategyCode)                 |
 
 
-## Notes
+## Note
 
 - This repository includes design patterns from the creational, structural, and behavioral categories.
 - Each pattern folder contains:

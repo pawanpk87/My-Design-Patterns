@@ -1,17 +1,16 @@
-package FactoryPatternCode;
+package FactorPatternCode.factory;
 
-import FactoryPatternCode.buttonsobj.*;
-import FactoryPatternCode.factory.*;
+import FactorPatternCode.factory.*;
+import FactorPatternCode.model.*;
 
 public class Client {
-    public static void main(String[] args) {
-        Dialog window = new WindowsDialog();
-        Dialog html = new HtmlDialog();
+    private Vehicle vehicle;
 
-        Button windowBtn = window.createButton();
-        Button htmlBtn = html.createButton();
+    public Client(VehicleFactory vehicleFactory) {
+        this.vehicle = vehicleFactory.createVehicle();
+    }
 
-        windowBtn.onClick();
-        htmlBtn.onClick();
+    public Vehicle getVehicle() {
+        return this.vehicle;
     }
 }

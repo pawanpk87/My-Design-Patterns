@@ -1,20 +1,21 @@
 package AbstractFactoryCode;
 
-import AbstractFactoryCode.buttonsobj.Button;
-import AbstractFactoryCode.checkboxes.Checkbox;
 import AbstractFactoryCode.factory.GUIFactory;
+import AbstractFactoryCode.model.button.Button;
+import AbstractFactoryCode.model.checkboxes.CheckBox;
 
 public class Application {
-    private Button button;
-    private Checkbox checkbox;
 
-    public Application(GUIFactory factory){
-        this.button = factory.createButton();
-        this.checkbox = factory.createCheckbox();
+    private Button button;
+    private CheckBox checkBox;
+
+    public Application(GUIFactory guiFactory) {
+        this.button = guiFactory.createButton();
+        this.checkBox = guiFactory.creatCheckBox();
     }
 
-    public void paint(){
-        button.paint();
-        checkbox.paint();
+    public void paint() {
+        this.button.paint();
+        this.checkBox.paint();
     }
 }

@@ -1,10 +1,11 @@
 package AbstractFactoryCode.factory;
 
-import AbstractFactoryCode.buttonsobj.Button;
-import AbstractFactoryCode.checkboxes.Checkbox;
+import AbstractFactoryCode.model.button.Button;
+import AbstractFactoryCode.model.checkboxes.CheckBox;
 
 public interface GUIFactory {
+
     Button createButton();
 
-    Checkbox createCheckbox();
+    CheckBox creatCheckBox();
 }

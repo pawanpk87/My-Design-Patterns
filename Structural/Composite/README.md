@@ -10,4 +10,4 @@ The Composite Pattern allows us to build structures of objects in the form of tr
 
 ## Class Diagram
 
-![Screenshot 2024-08-25 212849](https://github.com/user-attachments/assets/c1f737a6-218f-44d7-a105-2bce9441cf28)
+![Screenshot 2025-02-02 163334](https://github.com/user-attachments/assets/3ebea67c-6183-4097-a72a-2be6eaba89c2)

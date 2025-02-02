@@ -1,14 +1,14 @@
 package CommandCode;
 
-public class LightOnCommand implements Command {
+public class LightOffCommand implements Command {
 
     private Light light;
 
-    public LightOnCommand(Light light) {
+    public LightOffCommand(Light light) {
         this.light = light;
     }
 
     public void execute() {
-        light.turnOn();
+        light.turnOff();
     }
 }

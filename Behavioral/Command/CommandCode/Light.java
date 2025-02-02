@@ -1,7 +1,12 @@
 package CommandCode;
 
 public class Light {
-    public void on() {
-        System.out.println("Light on!");
+
+    public void turnOn() {
+        System.out.println("Light is ON!");
+    }
+
+    public void turnOff() {
+        System.out.println("Light is OFF!");
     }
 }

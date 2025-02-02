@@ -3,7 +3,6 @@ package BuilderCode;
 class Computer {
     private String HDD;
     private String RAM;
-
     private boolean isGraphicsCardEnabled;
     private boolean isBluetoothEnabled;
 
@@ -15,19 +14,19 @@ class Computer {
     }
 
     public String getHDD() {
-        return HDD;
+        return this.HDD;
     }
 
     public String getRAM() {
-        return RAM;
+        return this.RAM;
     }
 
     public boolean isGraphicsCardEnabled() {
-        return isGraphicsCardEnabled;
+        return this.isGraphicsCardEnabled;
     }
 
     public boolean isBluetoothEnabled() {
-        return isBluetoothEnabled;
+        return this.isBluetoothEnabled;
     }
 
     public static class ComputerBuilder {
@@ -36,13 +35,13 @@ class Computer {
         private boolean isGraphicsCardEnabled;
         private boolean isBluetoothEnabled;
 
-        public ComputerBuilder setHDD(String hDD) {
-            HDD = hDD;
+        public ComputerBuilder setHDD(String HDD) {
+            this.HDD = HDD;
             return this;
         }
 
-        public ComputerBuilder setRAM(String rAM) {
-            RAM = rAM;
+        public ComputerBuilder setRAM(String RAM) {
+            this.RAM = RAM;
             return this;
         }
 
@@ -68,12 +67,13 @@ class Computer {
     }
 }
 
-public class SimpleExample {
+public class Driver {
     public static void main(String[] args) {
         Computer computer = new Computer.ComputerBuilder()
                 .setHDD("NVIDIA")
                 .setRAM("2GB")
-                .setBluetoothEnabled(true)
+                .setGraphicsCardEnabled(true)
+                .setBluetoothEnabled(false)
                 .build();
 
         System.out.println(computer);

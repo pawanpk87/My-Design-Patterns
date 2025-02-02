@@ -1,9 +1,9 @@
 package MementoCode;
 
-public class TextEditor {
+public class Editor {
     private String content;
 
-    public TextEditor() {
+    public Editor() {
         this.content = "";
     }
 

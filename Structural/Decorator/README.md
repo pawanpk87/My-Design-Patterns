@@ -5,5 +5,4 @@ The Decorator Pattern focuses on adding properties, functionalities, and behavio
 A decorator is a structural design pattern that lets you attach new behaviours to objects by placing these objects inside special wrapper objects that contain the behaviours.
 
 ## Class Diagram
-
-![Screenshot 2024-08-25 213241](https://github.com/user-attachments/assets/f3cad8c9-47ea-4d98-b548-d57d9f05245f)
+![Screenshot 2025-02-02 165827](https://github.com/user-attachments/assets/f6c255e3-0a8a-4fbb-a9ba-8755565fff02)

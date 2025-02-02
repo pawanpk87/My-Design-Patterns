@@ -6,11 +6,11 @@ Design patterns are typical solutions to commonly occurring problems in software
 
 | Pattern          | Class Diagram                                | Code                                |
 |------------------|----------------------------------------------|-------------------------------------|
-| Factory          |    | [Factory Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Factory%20Pattern/FactoryPatternCode)            |
-| Singleton        |  | [Singleton Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Singleton/SingletonCode)          |
-| Builder          |  | [Builder Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Builder/BuilderCode)            |
-| Prototype        | [Prototype Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Prototype#class-diagram) | [Prototype Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Prototype/PrototypeCode)          |
-| Abstract Factory |  | [Abstract Factory Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Abstract%20Factory/AbstractFactoryCode)   |
+| [Factory](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Factory%20Pattern)          |    | [Factory Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Factory%20Pattern/FactoryPatternCode)            |
+| [Singleton](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Singleton)        |  | [Singleton Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Singleton/SingletonCode)          |
+| [Builder](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Builder)          |  | [Builder Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Builder/BuilderCode)            |
+| [Prototype](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Prototype)        | [Prototype Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Prototype#class-diagram) | [Prototype Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Prototype/PrototypeCode)          |
+| [Abstract Factory](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Abstract%20Factory) |  | [Abstract Factory Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Creational/Abstract%20Factory/AbstractFactoryCode)   |
 
 ## Structural Design Patterns
 

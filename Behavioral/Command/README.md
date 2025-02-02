@@ -11,7 +11,4 @@ A “command object” encapsulates a request to do something (for example, turn
 This pattern decouples the objects that send requests from the objects responsible for executing those requests.
 
 ## Class Diagram
-
-![Screenshot 2024-08-25 211010](https://github.com/user-attachments/assets/3aaf5189-f5c2-4273-a788-0469c3522d8b)
-
-
+![Screenshot 2025-02-03 001050](https://github.com/user-attachments/assets/03986f99-508b-45fe-8694-ea684a0ffdcc)

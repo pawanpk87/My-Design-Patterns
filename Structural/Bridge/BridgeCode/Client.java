@@ -2,10 +2,16 @@ package BridgeCode;
 
 public class Client {
     public static void main(String[] args) {
-        Message textMessage = new TextMessage(new EmailSender());
-        Message imageMessage = new ImageMessage(new SMSSender());
+        Device TV = new TV();
 
-        textMessage.send("Text message");
-        imageMessage.send("Image message");
+        RemoteControl basiControl = new BasicRemote(TV);
+        basiControl.turnOn();
+        basiControl.turnOff();
+
+        Device radio = new Radio();
+        AdvancedRemote advancedRemote = new AdvancedRemote(radio);
+        advancedRemote.turnOn();
+        advancedRemote.setVolume(15);
+        advancedRemote.turnOff();
     }
 }

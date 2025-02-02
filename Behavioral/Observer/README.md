@@ -17,8 +17,4 @@ In Java, the `Observable` class and `Observer` interface provide a built-in way 
 3. **Protected Method Issue**: The `setChanged()` method in the `Observable` API is protected. This means you can’t call `setChanged()` unless you’ve subclassed `Observable`. As a result, you cannot create an instance of the `Observable` class and compose it with your own objects—you have to subclass it. This design violates the principle of "favor composition over inheritance."
 
 ## Class Diagram
-
-![Screenshot 2024-08-25 211831](https://github.com/user-attachments/assets/21b298c0-7bbd-42a9-a748-2965877bd535)
-
-
-
+![Screenshot 2025-02-03 005409](https://github.com/user-attachments/assets/ddd8f34f-b5fc-4c7a-8314-a701a53b343a)

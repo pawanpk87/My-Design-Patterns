@@ -16,4 +16,4 @@ The client code can make new instances without knowing which specific class is b
 
 ## Class Diagram
 
-![Screenshot 2024-08-26 195322](https://github.com/user-attachments/assets/5eab71cd-cd79-4063-aea9-762cd17eb97c)
+![Screenshot 2025-02-02 135716](https://github.com/user-attachments/assets/463f0c45-8594-4a1c-a6ef-c7d110358d98)

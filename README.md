@@ -16,13 +16,13 @@ Design patterns are typical solutions to commonly occurring problems in software
 
 | Pattern          | Class Diagram                                | Code                                |
 |------------------|----------------------------------------------|-------------------------------------|
-| Decorator        | [Decorator Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Decorator#class-diagram)   | [Decorator Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Decorator/DecoraterCode)          |
-| Facade           |  | [Facade Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Facade/FacadeCode)             |
-| Adapter          |  | [Adapter Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Adapter/AdapterCode)            |
-| Bridge           |  | [Bridge Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Bridge/BridgeCode)             |
-| Flyweight        |  | [Flyweight Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Flyweight/FlyweightCode)          |
-| Composite        | [Composite Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Composite#class-diagram)   | [Composite Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Composite/CompositeCode)          |
-| Proxy            | [Proxy Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy#class-diagram) | [Proxy Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy/ProxyCode)              |
+| [Decorator](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Decorator)        | [Decorator Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Decorator#class-diagram)   | [Decorator Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Decorator/DecoraterCode)          |
+| [Facade](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Facade)           |  | [Facade Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Facade/FacadeCode)             |
+| [Adapter](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Adapter)          |  | [Adapter Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Adapter/AdapterCode)            |
+| [Bridge](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Bridge)           |  | [Bridge Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Bridge/BridgeCode)             |
+| [Flyweight](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Flyweight)        |  | [Flyweight Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Flyweight/FlyweightCode)          |
+| [Composite](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Composite)        | [Composite Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Composite#class-diagram)   | [Composite Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Composite/CompositeCode)          |
+| [Proxy](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy)            | [Proxy Class Diagram](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy#class-diagram) | [Proxy Code](https://github.com/pawanpk87/My-Design-Patterns/tree/main/Structural/Proxy/ProxyCode)              |
 
 ## Behavioral Design Patterns
 

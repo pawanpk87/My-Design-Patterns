@@ -2,14 +2,14 @@ package CompositeCode;
 
 public class MenuItem extends MenuComponent {
     private String name;
-    private String description;
-    boolean vegetarian;
-    double price;
+    private String descripton;
+    private boolean isVegetarian;
+    private double price;
 
-    public MenuItem(String name, String description, boolean vegetarian, double price) {
+    public MenuItem(String name, String descripton, boolean isVegetarian, double price) {
         this.name = name;
-        this.description = description;
-        this.vegetarian = vegetarian;
+        this.descripton = descripton;
+        this.isVegetarian = isVegetarian;
         this.price = price;
     }
 
@@ -18,7 +18,7 @@ public class MenuItem extends MenuComponent {
     }
 
     public String getDescription() {
-        return this.description;
+        return this.descripton;
     }
 
     public double getPrice() {
@@ -26,7 +26,7 @@ public class MenuItem extends MenuComponent {
     }
 
     public boolean isVegetarian() {
-        return this.vegetarian;
+        return this.isVegetarian;
     }
 
     public void print() {

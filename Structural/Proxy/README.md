@@ -7,5 +7,4 @@ A proxy controls access to the original object, allowing you to perform somethin
 Proxy is a structural design pattern that provides an object that acts as a substitute for a real service object used by a client. A proxy receives client requests, does some work (access control, caching, etc.), and then passes the request to a service object.
 
 ## Class Diagram
-
-![Screenshot 2024-08-26 224722](https://github.com/user-attachments/assets/1b962ded-aad2-4b27-8902-04cd7d026b62)
+![Screenshot 2025-02-02 232644](https://github.com/user-attachments/assets/c868aa98-6f3a-4436-ade9-3a437a33a15b)

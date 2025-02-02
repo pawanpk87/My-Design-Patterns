@@ -1,14 +1,16 @@
+package MementoCode;
+
 import java.util.Stack;
 
 public class Caretaker {
     private final Stack<Memento> history;
 
     public Caretaker() {
-        this.history = new Stack<>();
+        history = new Stack<>();
     }
 
     public void save(Memento memento) {
-        history.push(memento);
+        this.history.push(memento);
     }
 
     public Memento undo() {

@@ -1,5 +1,7 @@
+package MementoCode;
+
 public class Memento {
-    private final String state;
+    String state;
 
     public Memento(String state) {
         this.state = state;

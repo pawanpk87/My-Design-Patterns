@@ -1,7 +1,9 @@
-public class Editor {
+package MementoCode;
+
+public class TextEditor {
     private String content;
 
-    public Editor() {
+    public TextEditor() {
         this.content = "";
     }
 
@@ -14,7 +16,7 @@ public class Editor {
     }
 
     public Memento save() {
-        return new Memento(content);
+        return new Memento(this.content);
     }
 
     public void restore(Memento memento) {

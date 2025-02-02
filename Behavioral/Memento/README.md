@@ -8,4 +8,4 @@ Keeping the single responsibility principle in mind, it’s also a good idea to 
 
 ## Class Diagram
 
-![Screenshot 2024-08-26 195048](https://github.com/user-attachments/assets/f14d5e0a-5270-40fa-a75b-9687b90d9c4a)
+![Screenshot 2025-02-03 005137](https://github.com/user-attachments/assets/5f6f2e73-7316-45b2-aa24-12aa1ef5deac)
